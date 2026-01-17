@@ -1,14 +1,8 @@
-تمام 👍
-ده **README.md** جاهز تحطه مباشرة على GitHub (منظم، أكاديمي، ومطابق تمامًا للريبورت بتاعك)، ومكتوب بأسلوب مناسب للتسليم الجامعي والعرض العام:
-
----
-
-````markdown
-# 🧠 ROSS MAZE Solver  
+# 🧠 ROSS MAZE Solver  - Omar ELshaer
 ### AIE111 – Artificial Intelligence Engineering  
 **Final Project**
-
 ---
+
 
 ## 📌 Project Overview
 
@@ -26,16 +20,7 @@ The application is built using **Python** and **Pygame**, focusing on algorithm 
 - **Institution:** Alamein International University  
 - **Project Type:** Final Project  
 
----
 
-## 👤 Team Members & Roles
-
-| Name | Role | Responsibilities |
-|----|----|----|
-| **Omar Elshaer** | Team Leader | BFS algorithm implementation, GUI design, visualization system, debugging, optimization |
-| Rohima Ahmed | Game Logic Developer | Grid management, user interaction, event handling |
-| Shaimaa Mohamed | QA & Testing | Feature testing, edge case validation, performance testing |
-| Salma Waleed | Documentation | Algorithm explanation, implementation description, project documentation |
 
 ---
 
@@ -215,5 +200,3 @@ ROSS MAZE Solver combines **theory, visualization, and user interaction** to del
 ---
 
 **© 2026 – AIE111 Final Project | Alamein International University**
-
-```
