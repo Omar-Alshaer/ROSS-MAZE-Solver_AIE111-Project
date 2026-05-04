@@ -9,8 +9,8 @@
 
 This project was developed by:
 
-- Omar Elshaer
 - Shaimaa Kotit
+- Omar Elshaer
 
 ---
 
