@@ -1,6 +1,14 @@
-# 🧠 ROSS MAZE Solver  - Omar ELshaer
+# 🧠 ROSS MAZE Solver
 ### AIE111 – Artificial Intelligence Engineering  
 **Final Project**
+
+## 👥 Project Team
+
+This project was developed by:
+
+- Omar Elshaer
+- Shaimaa Kotit
+
 ---
 
 
